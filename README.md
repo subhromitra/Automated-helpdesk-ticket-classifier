@@ -1,5 +1,9 @@
 # How may I help U ?
 
+## Project description :
+
+This project is about building an automated helpdesk system for reducing the speed of customer service time & increasing efficiency of workflow. 
+
 ### What is a helpdesk ?
 A help desk, in the context of IT, is a department inside an organization that is responsible for answering the technical questions of its users. Most major IT companies have set up help desks to respond to questions from their customers. The questions and their answers are usually transferred using e-mail, telephone, website, or online chat. Additionally, there are internal help desks aimed at offering the same form of help, but only for the employees within the organization.
 

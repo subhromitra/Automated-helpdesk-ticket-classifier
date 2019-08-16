@@ -1,4 +1,4 @@
-# Automated-helpdesk-ticket-classifier
+# How may I help U ?
 
 ### What is a helpdesk ?
 A help desk, in the context of IT, is a department inside an organization that is responsible for answering the technical questions of its users. Most major IT companies have set up help desks to respond to questions from their customers. The questions and their answers are usually transferred using e-mail, telephone, website, or online chat. Additionally, there are internal help desks aimed at offering the same form of help, but only for the employees within the organization.

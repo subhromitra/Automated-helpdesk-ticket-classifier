@@ -1,4 +1,4 @@
-# How may I help U ?
+# Automated helpdesk system
 
 ## Project description :
 

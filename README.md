@@ -21,7 +21,7 @@ The dataset can be found here: https://privdatastorage.blob.core.windows.net/git
 
 The general workflow for this project is visualized using the following pic :-
 
-![workflow image](https://raw.githubusercontent.com/subhromitra/Automated-helpdesk-ticket-classifier/master/nlp_workflow.JPG)
+![workflow image](https://raw.githubusercontent.com/subhromitra/Automated-helpdesk-ticket-classifier/master/NLP_workflow.JPG)
 
 **Text Normalization :-** Converting words like I'm to I am , wouldn't to would not. 
 

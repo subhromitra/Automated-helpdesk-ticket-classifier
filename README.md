@@ -15,6 +15,12 @@ Machine learning can help in finding patterns in the text from complaints filed.
 
 The dataset can be found here: https://privdatastorage.blob.core.windows.net/github/support-tickets-classification/datasets/all_tickets.csv
 
+### Workflow :-
+
+The general workflow for this project is visualized using the following pic :-
+
+![workflow image](https://raw.githubusercontent.com/subhromitra/Automated-helpdesk-ticket-classifier/master/nlp_workflow.JPG)
+
 ### Prerequisites:
 
 ```

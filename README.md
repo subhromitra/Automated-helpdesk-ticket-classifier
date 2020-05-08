@@ -15,6 +15,8 @@ Machine learning can help in finding patterns in the text from complaints filed.
 
 The dataset can be found here: https://privdatastorage.blob.core.windows.net/github/support-tickets-classification/datasets/all_tickets.csv
 
+**Note:-** All labels have been made anonymous by the dataset providers.
+
 ### Workflow :-
 
 The general workflow for this project is visualized using the following pic :-

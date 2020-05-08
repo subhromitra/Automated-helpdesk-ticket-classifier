@@ -24,6 +24,7 @@ The general workflow for this project is visualized using the following pic :-
 ![workflow image](https://raw.githubusercontent.com/subhromitra/Automated-helpdesk-ticket-classifier/master/nlp_workflow.JPG)
 
 **Text Normalization :-** Converting words like I'm to I am , wouldn't to would not. 
+
 **Lemmatization :-** Converting words back to their root form , e.g :- better converted to good , geeze converted to good. This is done to reduce no.of unique tokens without distorting info conveyed by the sentence.
 
 ### Prerequisites:

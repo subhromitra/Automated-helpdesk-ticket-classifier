@@ -21,7 +21,7 @@ The dataset can be found here: https://privdatastorage.blob.core.windows.net/git
 
 Classify category, urgency & impact of a customer complaint.
 
-### Workflow :-
+### Project Workflow :-
 
 The general workflow for this project is visualized using the following pic :-
 
@@ -29,7 +29,7 @@ The general workflow for this project is visualized using the following pic :-
 
 **Tokenization :-** Splitting sentences (string) to sequence of words (list)
 
-**Text Normalization :-** Converting words like I'm to I am , wouldn't to would not. 
+**Text Normalization (expansion) :-** Expanding words like I'm to I am , wouldn't to would not. 
 
 **Lemmatization :-** Converting words back to their root form , e.g :- better converted to good , geeze converted to good. This is done to reduce no.of unique tokens without distorting info conveyed by the sentence.
 

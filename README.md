@@ -11,11 +11,15 @@ A help desk, in the context of IT, is a department inside an organization that i
 
 Machine learning can help in finding patterns in the text from complaints filed. These patterns help in classifying the tickets without any human intervention.
 
-### Dataset:
+### Dataset :-
 
 The dataset can be found here: https://privdatastorage.blob.core.windows.net/github/support-tickets-classification/datasets/all_tickets.csv
 
-**Note:-** All labels have been made anonymous by the dataset providers.
+**Note :-** All labels have been made anonymous by the dataset providers.
+
+### Task :-
+
+Classify category, urgency & impact of a customer complaint.
 
 ### Workflow :-
 
